@@ -151,7 +151,7 @@ html,body{
     /* background-color: lightskyblue; */
     border-radius: 1rem;
     margin-right: 19rem;
-    background-image: url(https://images.unsplash.com/photo-1688494930098-e88c53c26e3a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-image: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-position: center;
     background-size: cover;
 }
@@ -189,7 +189,7 @@ html,body{
 }
 
 #blogs-content{
-    height: 60vh;
+    height: 80vh;
     width: 50vw;
     /* background-color: darkseagreen; */
     margin-left: 25vw;
@@ -204,10 +204,10 @@ html,body{
 #content1{
     height: 20vh;
     width: 16vw;
-    background-color: #f1a20f;
+    background-color: #d3d0cbb5;
     margin-left: 4rem;
-    margin-right: 4rem;
-    margin-top: 1.5rem;
+    margin-right: 4.3rem;
+    margin-top: 1rem;
     justify-content: center;
     align-items: center;
     border-radius: .5rem;
@@ -220,7 +220,62 @@ html,body{
     border-radius: 20rem;
     margin-left: 5.5rem;
     margin-top: 0.5rem;
-    background-image: url(https://media.istockphoto.com/id/1357551471/vector/young-woman-jane-with-tasks-on-paper-sheets-planning-schedule-to-finish-task-on-time.jpg?s=1024x1024&w=is&k=20&c=By2-92ExkyTLPQ92ysFZdvLcElEacew7kmRwiGwnbRQ=);
+    background-image: url(https://www.talkdesk.com/_next/image/?url=https%3A%2F%2Finfra-cloudfront-talkdeskcom.svc.talkdeskapp.com%2Ftalkdesk_com%2F2015%2F08%2F25144104%2Ftools-for-employing-at-home-call-center-agents.png&w=1920&q=50);
+    background-position: center;
+    background-size: cover;
+}
+#circle1{
+    height: 8vh;
+    width: 4vw;
+    background-color: #fff;
+    border-radius: 20rem;
+    margin-left: 5.5rem;
+    margin-top: 0.5rem;
+    background-image: url(https://www.talkdesk.com/_next/image/?url=https%3A%2F%2Finfra-cloudfront-talkdeskcom.svc.talkdeskapp.com%2Ftalkdesk_com%2F7-tips-for-embracing-the-work-from-home-call-center-2280x1160.png&w=1920&q=50);
+    background-position: center;
+    background-size: cover;
+}
+#circle2{
+    height: 8vh;
+    width: 4vw;
+    background-color: #fff;
+    border-radius: 20rem;
+    margin-left: 5.5rem;
+    margin-top: 0.5rem;
+    background-image: url(https://media.licdn.com/dms/image/D4D12AQEtYKuLn7HFcg/article-cover_image-shrink_600_2000/0/1671016236103?e=2147483647&v=beta&t=CW8C1LkfW2pLnhiYSHCFndneaV-Z0DbTFoAMY5rN9Qs);
+    background-position: center;
+    background-size: cover;
+}
+#circle3{
+    height: 8vh;
+    width: 4vw;
+    background-color: #fff;
+    border-radius: 20rem;
+    margin-left: 5.5rem;
+    margin-top: 0.5rem;
+    background-image: url(https://callcenterstudio.com/wp-content/uploads/2020/04/8-Reasons-To-Move-Your-Call-Center-to-The-Cloud-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#circle4{
+    height: 8vh;
+    width: 4vw;
+    background-color: #fff;
+    border-radius: 20rem;
+    margin-left: 5.5rem;
+    margin-top: 0.5rem;
+    background-image: url(https://www.talkdesk.com/_next/image/?url=https%3A%2F%2Finfra-cloudfront-talkdeskcom.svc.talkdeskapp.com%2Ftalkdesk_com%2FThe-5-best-tips-for-choosing-call-center-systems-2280x1160.png&w=1920&q=50);
+    background-position: center;
+    background-size: cover;
+}
+#circle5{
+    height: 8vh;
+    width: 4vw;
+    background-color: #fff;
+    border-radius: 20rem;
+    margin-left: 5.5rem;
+    margin-top: 0.5rem;
+    background-image: url(https://whatfix.com/blog/wp-content/uploads/2023/11/Header-Image-Template.png);
     background-position: center;
     background-size: cover;
 }
@@ -241,3 +296,81 @@ html,body{
  color: rgb(131, 131, 131);
  line-height: 1rem;
 }
+
+#footer{
+    height: 35vh;
+    width: 100vw;
+    background-color: rgba(221, 214, 214, 0.848);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+
+}
+
+#footer-content1{
+    height: 20vh;
+    width: 16vw;
+    /* background-color: #c70b0b; */
+    background-color: #dc9c04;
+    border-radius: .5rem;
+    border: 2px solid gray;
+}
+
+#footer-content1 h5{
+ margin-left: 1.8rem;
+ font-size: 1.2rem;
+ margin-top: 0.4rem;
+}
+#footer-content1 p{
+ margin-left: 2.2rem;
+ font-size: .8rem;
+ font-family: sans-serif;
+ font-weight: 600;
+ color: #000;
+ margin-top: .5rem;
+}
+
+#footer-content2{
+    height: 20vh;
+    width: 16vw;
+    /* background-color: #c70b0b; */
+    background-color: #dc9c04;
+    border-radius: .5rem;
+    border: 2px solid gray;
+}
+
+#footer-content2 h5{
+    margin-left: 1.8rem;
+    font-size: 1.2rem;
+    margin-top: 0.4rem;
+   }
+   #footer-content2 p{
+    margin-left: 2.2rem;
+    font-size: .8rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #000;
+    margin-top: .5rem;
+   }
+#footer-content3{
+    height: 20vh;
+    width: 16vw;
+    background-color: #dc9c04;
+    border-radius: .5rem;
+    border: 2px solid gray;
+}
+
+#footer-content3 h5{
+    margin-left: 1.8rem;
+    font-size: 1.2rem;
+    margin-top: 0.4rem;
+   }
+   #footer-content3 p{
+    margin-left: 2.2rem;
+    font-size: .8rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #000;
+    margin-top: .5rem;
+   }
