@@ -398,7 +398,59 @@ html,body{
 #right-footer{
     height: 38vh;
     width: 30vw;
-    background-color: rgb(194, 66, 92);
+    /* background-color: rgb(194, 66, 92); */
     margin-right: 20vw;
     border-radius: .5rem;
+}
+
+#right-footer h1{
+    color: rgb(48, 48, 204);
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+#right-footer p{
+    color: rgb(179, 179, 183);
+    font-size: 1.2rem;
+    margin-top: .4rem;
+    margin-left: 2rem;
+}
+
+#mail-content{
+    height: 3rem;
+    width: 20rem;
+    /* background-color: rgb(26, 76, 120); */
+    margin-left: 2rem;
+    margin-top: .1rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#email{
+ height: 2.2rem;
+ width: 12rem;
+ margin-left: 0.1rem;
+ margin-top: 5px;
+ border-radius: .1rem;
+ text-align: center;
+ font-size: 1.2rem;
+} 
+
+#click{
+ height: 2.4rem;
+ width: 5rem;
+ margin-left: 0.5rem;
+ margin-top: .5rem;
+ border-radius: .1rem;
+ text-align: center;
+ font-size: 1.2rem;
+ background-color: dodgerblue;
+}
+
+#right-footer a{
+    text-decoration: none;
+    color: rgb(19, 19, 200);
+}
+#right-footer p{
+ line-height: 2rem;
 }
